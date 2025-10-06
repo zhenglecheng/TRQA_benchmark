@@ -26,11 +26,11 @@ Time Series Question Answering Benchmark
 
 
 
-## 🧠 Task Groups in TRQA
+# 🧠 Task Groups in TRQA
 TRQA benchmark encompasses two groups of tasks with six diverse tasks designed to evaluate a model's ability of understanding the fundamental properties of time series data. 
 The **TRQA** benchmark includes two major groups of tasks designed to evaluate different reasoning abilities in time series analysis.
 
----
+
 
 ### 🔹 **Conventional Tasks**
 
@@ -39,7 +39,6 @@ These are classic tasks widely explored in traditional time series analysis:
 1. **🩸 Anomaly Detection** – Identify irregular or unexpected patterns in a time series.  
 2. **🏷️ Classification** – Reason about the relationship between a time series and its underlying conceptual category.
 
----
 
 ### 🔸 **Advanced Tasks**
 

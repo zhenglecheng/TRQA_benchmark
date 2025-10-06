@@ -184,11 +184,6 @@ A total of **37 benchmarks** were selected, spanning domains such as robotics, e
 
 ---
 
-> 📘 **Note:**  
-> All datasets are publicly available from their respective repositories or archives.  
-> For reproducibility, preprocessing follows official sources or widely adopted community standards.
-
-
 ---
 ### 🔸 Data Link: 
 https://drive.google.com/file/d/12wBN5ZxYZuN8aQnX3qsbkVTqpyM0aaes/view?usp=sharing

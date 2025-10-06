@@ -110,7 +110,7 @@ We extract data from multiple time-series datasets, including:
 
 ## 🚨 Anomaly Detection Datasets
 
-We extract data from multiple anomaly detection benchmarks (e.g., [Paparrizos et al., 2022](#), [Su et al., 2019](#)), including:
+We extract data from multiple anomaly detection benchmarks, including:
 
 - **MGAB** – Mackey–Glass time series exhibiting chaotic behavior and synthetic anomalies.  
 - **ECG** – Electrocardiogram recordings with anomalies corresponding to ventricular premature contractions.  
@@ -134,7 +134,7 @@ We extract data from multiple anomaly detection benchmarks (e.g., [Paparrizos et
 
 ## 🧠 Classification Datasets
 
-We extract data from the **UCR Archive** ([Dau et al., 2019](#)) using the following criteria:
+We extract data from the **UCR Archive** using the following criteria:
 - Datasets with **≤4 classes**
 - Time series length **≤400** time points
 

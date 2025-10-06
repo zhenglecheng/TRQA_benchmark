@@ -12,7 +12,7 @@ Time Series Question Answering Benchmark
   <b>Figure:</b> Data distribution and tasks of TRQA.
 </p>
 
-
+### 🧩 Tasks of TRQA. TF, MC, and PZ denote true-or-false, multiple-choice, and puzzling.
 
 | **Group**              | **Task**              | **Description**                                             | **Question Type** |
 | ---------------------- | --------------------- | ----------------------------------------------------------- | ----------------- |

@@ -6,7 +6,7 @@ Time Series Question Answering Benchmark
   <img src="figs/final_conventional.png" alt="Illustration of Conventional Tasks" width="58%">
 </p>
 <p align="center">
-  <img src="figs/final_reasoning.pdf" alt="Illustration of Advanced Tasks" width="99%">
+  <img src="figs/final_reasoning.png" alt="Illustration of Advanced Tasks" width="99%">
 </p>
 <p align="center">
   <b>Figure:</b> Data distribution and tasks of TRQA.

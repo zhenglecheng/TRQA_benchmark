@@ -1,4 +1,4 @@
-# TSAQA_benchmark
+# TSAQA Benchmark
 Time Series Question Answering Benchmark
 
 <p align="center">

@@ -1,18 +1,18 @@
-# TRQA_benchmark
+# TSAQA_benchmark
 Time Series Question Answering Benchmark
 
 <p align="center">
-  <img src="figs/data_statistics.jpg" alt="Domain and Task Distribution of TRQA" width="40%">
+  <img src="figs/data_statistics.jpg" alt="Domain and Task Distribution of TSAQA" width="40%">
   <img src="figs/final_conventional.png" alt="Illustration of Conventional Tasks" width="58%">
 </p>
 <p align="center">
   <img src="figs/final_reasoning.png" alt="Illustration of Advanced Tasks" width="99%">
 </p>
 <p align="center">
-  <b>Figure:</b> Data distribution and tasks of TRQA.
+  <b>Figure:</b> Data distribution and tasks of TSAQA.
 </p>
 
-### 🧩 Tasks of TRQA. TF, MC, and PZ denote true-or-false, multiple-choice, and puzzling.
+### 🧩 Tasks of TSAQA. TF, MC, and PZ denote true-or-false, multiple-choice, and puzzling.
 
 | **Group**              | **Task**              | **Description**                                             | **Question Type** |
 | ---------------------- | --------------------- | ----------------------------------------------------------- | ----------------- |
@@ -26,9 +26,9 @@ Time Series Question Answering Benchmark
 
 
 
-# 🧠 Task Groups in TRQA
-TRQA benchmark encompasses two groups of tasks with six diverse tasks designed to evaluate a model's ability of understanding the fundamental properties of time series data. 
-The **TRQA** benchmark includes two major groups of tasks designed to evaluate different reasoning abilities in time series analysis.
+# 🧠 Task Groups in TSAQA
+TSAQA benchmark encompasses two groups of tasks with six diverse tasks designed to evaluate a model's ability of understanding the fundamental properties of time series data. 
+The **TSAQA** benchmark includes two major groups of tasks designed to evaluate different reasoning abilities in time series analysis.
 
 
 
